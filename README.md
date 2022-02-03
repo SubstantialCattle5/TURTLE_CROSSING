@@ -1,6 +1,6 @@
 # TURTLE CROSSING
 
-***
+ 
 
 ## About
 This is a Mini-Game in Python.The goal of this game is to 
