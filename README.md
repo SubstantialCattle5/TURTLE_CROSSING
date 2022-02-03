@@ -18,7 +18,8 @@ Arrow keys to move. Avoid cars and try to not get crushed!
 ### Features 
 1. Car Spawning System  
 2. Level System 
-3. Cars get faster every new level
+3. Cars get faster after every new level
+
 
 
 ### Modules Used
